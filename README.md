@@ -2,7 +2,7 @@
 
 **Desafío Reacción** es una aplicación de juego para Android diseñada para poner a prueba y mejorar tus reflejos. Desarrollada íntegramente con **Kotlin** y **Jetpack Compose**, ofrece una experiencia fluida y moderna.
 
-Este proyecto fue desarrollado con el objetivo principal de **practicar la programación en Android**, explorando herramientas modernas y patrones de diseño recomendados.
+Este proyecto fue desarrollado con el objetivo principal de **practicar la programación en Android Studio**, explorando herramientas modernas y patrones de diseño recomendados.
 
 ## 🚀 Características
 
