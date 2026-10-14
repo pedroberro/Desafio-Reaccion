@@ -45,4 +45,4 @@ Este proyecto fue desarrollado con el objetivo principal de **practicar la progr
 *   `MainActivity.kt`: Punto de entrada de la aplicación y configuración de la navegación.
 
 ---
-Desarrollado como parte de un ejercicio de práctica en programación Android.
+
