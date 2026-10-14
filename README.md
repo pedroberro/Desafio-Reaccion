@@ -2,6 +2,8 @@
 
 **Desafío Reacción** es una aplicación de juego para Android diseñada para poner a prueba y mejorar tus reflejos. Desarrollada íntegramente con **Kotlin** y **Jetpack Compose**, ofrece una experiencia fluida y moderna.
 
+Este proyecto fue desarrollado con el objetivo principal de **practicar la programación en Android**, explorando herramientas modernas y patrones de diseño recomendados.
+
 ## 🚀 Características
 
 *   **Juego de Velocidad:** Reacciona lo más rápido posible a los estímulos en pantalla.
@@ -17,6 +19,7 @@
 *   **Arquitectura:** MVVM (Model-View-ViewModel)
 *   **Navegación:** Compose Navigation
 *   **Componentes de Ciclo de Vida:** ViewModel, StateFlow
+*   **Persistencia:** Room Database
 
 ## 📋 Requisitos
 
@@ -38,8 +41,8 @@
 ## 📁 Estructura del Proyecto
 
 *   `ui/`: Contiene todas las pantallas (`MainMenuScreen`, `GameScreen`, `StatsScreen`, `InstructionsScreen`) y los componentes de la interfaz.
-*   `data/`: Lógica de persistencia o modelos de datos.
+*   `data/`: Lógica de persistencia (Room) y modelos de datos.
 *   `MainActivity.kt`: Punto de entrada de la aplicación y configuración de la navegación.
 
 ---
-Desarrollado como parte de un desafío de programación en Android.
+Desarrollado como parte de un ejercicio de práctica en programación Android.
